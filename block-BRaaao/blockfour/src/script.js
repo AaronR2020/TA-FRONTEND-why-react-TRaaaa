@@ -39,8 +39,9 @@ function Articles() {
     <>
       <h3> Article</h3>
       <div className="main">
+        {/*you dont need props to access daa directly */}
         {data.map((elm) => (
-          <Article {...elm} />
+          <Article {...elm} key={elm.publishedAt}/>
         ))}
       </div>
     </>
