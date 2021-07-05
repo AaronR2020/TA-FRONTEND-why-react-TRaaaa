@@ -6,4 +6,10 @@
 - If you are creating the structure on notebook take screenshot and upload
 - If you are using any drawing tools take screenshot and upload.
 
+header
+sideBar_Navbar_Left
+sideBar_right
+Articles>Article
+
+
 - ![Twitter Layout](./twitter.jpg)
